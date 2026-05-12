@@ -1,0 +1,19 @@
+# Zemax large binary/data files
+*.ZDA
+*.zar
+Zemax_txt/
+Zemax_xlsx/
+zemax_export/
+
+# MATLAB temp files
+*.asv
+~$*.docx
+~$*.tmp
+*.m~
+
+# Figures (large)
+*.fig
+
+# PDF/PPT results
+*.pdf
+*.ppt
